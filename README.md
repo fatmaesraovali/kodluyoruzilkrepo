@@ -1,5 +1,4 @@
-![github](figures/github.png)
-
+# kodluyoruzilkrepo
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
